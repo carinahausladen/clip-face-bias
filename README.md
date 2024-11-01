@@ -33,6 +33,7 @@ If you want to reproduce results with the original image datasets, please reques
 ## Reproduce Paper Results
 
 To reproduce the results from the paper, run the scripts in the `analysis` folder.
+All scripts require the precalculated cosine similarities from the `results` folder.
 To resolve file paths, all scripts should be run from the root directory of this repository.
 
 ## Citation
