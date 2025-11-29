@@ -40,11 +40,13 @@ To resolve file paths, all scripts should be run from the root directory of this
 
 If you find this project useful, please consider citing our preprint:
 ```
-@article{hausladen2024social,
-  title={Social perception of faces in a vision-language model},
-  author={Hausladen, Carina I and Knott, Manuel and Camerer, Colin F and Perona, Pietro},
-  journal={arXiv preprint arXiv:2408.14435},
-  year={2024}
+@inproceedings{hausladen2025social,
+  author = {Hausladen, Carina I and Knott, Manuel and Camerer, Colin F and Perona, Pietro},
+  title = {Social Perception of Faces in a Vision-Language Model},
+  booktitle={Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency},
+  pages={639--659},
+  year={2025}
+  doi = {10.1145/3715275.3732041} 
 }
 ```
 
